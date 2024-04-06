@@ -19,4 +19,3 @@
 Now you have the data under the right directories. You can run the notebook to reproduce the visualizations in the poster.
 
 - Reproduce the results in ```results_posterhead21.ipynb```.
-```
