@@ -1,0 +1,9 @@
+*.csv
+*.fits
+*.vot
+    
+__pycache__/
+data/
+out_data/
+models/
+figures/
