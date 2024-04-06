@@ -14,7 +14,9 @@
 
   ```wget https://zenodo.org/records/10937089/files/out_data.zip```
 
-  ```unzip out_data.zip```
+  ```mkdir -p ./out_data```
+
+  ```unzip out_data.zip -d ./out_data```
 
 Now you have the data under the right directories. You can run the notebook to reproduce the visualizations in the poster.
 
